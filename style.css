@@ -6,10 +6,10 @@
 
 
 body {
-  background-image:url(https://i.pinimg.com/originals/46/c0/41/46c0411f3d7784c87da2b85a21a9c8e5.jpg);
+  background-image:url(https://alamphoto.com/wp-content/uploads/2020/02/%D8%A3%D8%AC%D9%85%D9%84-%D8%AE%D9%84%D9%81%D9%8A%D8%A7%D8%AA-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%B7%D8%B1-2020.jpg);
   
   background-repeat : no-repeat;
-  background-position: center center;
+  
   background-attachment: fixed;
   background-repeat: unset;
 
@@ -17,12 +17,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  width: auto;
-  max-width: max-content;
-  min-width: cover;
-  height: auto;
-  min-height: cover;
-  max-height: max-content;
+
   
 }
 
