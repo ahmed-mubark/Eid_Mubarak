@@ -17,6 +17,12 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  width: auto;
+  max-width: max-content;
+  min-width: cover;
+  height: auto;
+  min-height: cover;
+  max-height: max-content;
   
 }
 
