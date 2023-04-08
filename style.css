@@ -113,3 +113,14 @@ body {
     right: -1000px;
   }
 }
+
+@media only screen and (max-width: 480px) {
+  background-image {
+    width: 100%;
+  }
+}
+@media only screen and (max-height: 480px) {
+  background-image {
+    height: 100%;
+  }
+}
