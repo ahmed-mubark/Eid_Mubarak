@@ -9,7 +9,7 @@ body {
   background-image:url(https://alamphoto.com/wp-content/uploads/2020/02/%D8%A3%D8%AC%D9%85%D9%84-%D8%AE%D9%84%D9%81%D9%8A%D8%A7%D8%AA-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%B7%D8%B1-2020.jpg);
   
   background-repeat : no-repeat;
-  background-position:25% center;
+  background-position:25%;
   background-attachment: fixed;
   background-repeat: unset;
   
@@ -32,8 +32,7 @@ body {
 }
 
 .table {
-  bottom: 400px;
-  left: 200px;
+  bottom: 700px;
   width: 900px;
   height: 150px;
   background-color: #d4e5ff;
@@ -73,7 +72,7 @@ body {
 }
 
 .table1 {
-  bottom: 160px;
+  bottom: 350px;
   
   width: 790px;
   height: 75px;
@@ -95,7 +94,7 @@ body {
 }
 .table1 .monitor1-wrapper1 .monitor1 p1 {
   font-family: "VT323", monospace;
-  font-size: 42px;
+  font-size: 39px;
   position: relative;
   display: inline-block;
   color: #949494;
